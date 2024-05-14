@@ -3,7 +3,7 @@
 <h1 align="center"><b>I am Akshat Vishwamitra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <h3 align="center">  </h3> -->
 
-### *About me*
+### **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQyMGhrZ3pkeGtkdmZ5MjdrZG43Y3NoNDRvZjYzcWwwcG54ejF6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPn3b0I6yEwk8VO/giphy.gif" width = 250px></picture>
 
 
