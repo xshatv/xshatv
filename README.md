@@ -14,7 +14,7 @@
 
 📫 Feel free to reach me:
 
-[![Email](https://img.shields.io/badge/Email-%40akshatvishwamitra@gmail.com%20-blue)](mailto:akshatvishwamitra@gmail.com?)
+[![Email](https://img.shields.io/badge/Email-akshatvishwamitra@gmail.com%20-blue)](mailto:akshatvishwamitra@gmail.com?)
 [![Linkedin: akshat-vishwamitra/](https://img.shields.io/badge/-Akshat_Vishwamitra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-vishwamitra/)](https://www.linkedin.com/in/akshat-vishwamitra/)
 
 <!--
