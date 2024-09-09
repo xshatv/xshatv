@@ -7,7 +7,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQyMGhrZ3pkeGtkdmZ5MjdrZG43Y3NoNDRvZjYzcWwwcG54ejF6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPn3b0I6yEwk8VO/giphy.gif" width = 250px></picture>
 
 
-- 🔭 I'm currently working as a Sr. DevOps Engineer.
+- 🔭 I'm currently working as a full-time Sr. DevOps Engineer.
 - 🌱 I'm currently learning Azure and GCP.
 - 👯 I’m open to collaborate on AWS and DevOps projects.
 - 💬 Ask me about AWS, Linux, Jenkins, Docker, Kubernetes, Terraform and Ansible.
