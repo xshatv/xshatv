@@ -8,8 +8,7 @@
 
 
 - 🔭 I'm currently working as a full-time Sr. DevOps Engineer.
-- 🌱 I'm currently learning Azure and GCP.
-- 👯 I’m open to collaborate on AWS and DevOps projects.
+- 🌱 currently learning Azure and GCP.
 - 💬 Ask me about AWS, Linux, Jenkins, Docker, Kubernetes, Terraform and Ansible.
 
 📫 Feel free to reach me:
